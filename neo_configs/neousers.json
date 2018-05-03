@@ -1,0 +1,25 @@
+{
+  "Users": [
+    {
+      "UID": "test",
+      "Password": "{SSHA}iIFUPCzf2ChSIc+Xs5PaYJduYuwyALB+3kQ\u003d",
+      "Roles": [
+        "admin_user"
+      ],
+      "Attributes": [
+        {
+          "attributeName": "firstname",
+          "attributeValue": ""
+        },
+        {
+          "attributeName": "email",
+          "attributeValue": ""
+        },
+        {
+          "attributeName": "lastname",
+          "attributeValue": ""
+        }
+      ]
+    }
+  ]
+}
